@@ -90,7 +90,23 @@ Research areas:
 - Spatial analysis
 
 ---
+---
 
+## GitHub Statistics 📊
+
+![Mojtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojtabaShakeryari&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojtabaShakeryari&layout=compact&theme=default)
+
+---
+
+## Current Research Focus 🔬
+
+- Satellite-based wetland monitoring
+- Climate change impacts on aquatic ecosystems
+- Remote sensing time-series analysis
+- Machine learning for environmental prediction
+- Earth observation applications
 ## Contact
 
 GitHub:
