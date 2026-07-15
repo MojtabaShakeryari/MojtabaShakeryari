@@ -1,6 +1,12 @@
 # Hi, I'm Mojtaba Shakeryari 👋
 
 ## Environmental Scientist | Remote Sensing & GIS Researcher
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-green)
+![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-Satellite%20Data-orange)
+![GIS](https://img.shields.io/badge/GIS-Spatial%20Analysis-yellow)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-red)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
 
 M.Sc. Environmental Science  
 University of Tehran
@@ -20,18 +26,25 @@ I am interested in applying satellite remote sensing, GIS, climate data analysis
 
 ---
 
-## Featured Project
+## Featured Research Project 🌍
 
 ### Lake Urmia Environmental Monitoring (2016–2025)
 
-A data-driven framework for monitoring Lake Urmia using:
+An integrated remote sensing and machine learning framework for monitoring environmental changes in Lake Urmia.
 
-- Sentinel-2 satellite imagery
-- Google Earth Engine
-- Climate datasets
-- SPEI drought indicators
-- Statistical analysis
-- Machine learning models
+**Methods:**
+
+🛰️ Sentinel-2 satellite imagery  
+🌎 Google Earth Engine workflow  
+🌧️ CHIRPS precipitation analysis  
+🌡️ ERA5-Land temperature data  
+💧 MOD16 evapotranspiration  
+📉 SPEI drought indicators  
+🤖 Random Forest prediction model  
+
+Repository:
+
+➡️ [Lake Urmia Environmental Monitoring](https://github.com/MojtabaShakeryari/Lake-Urmia-Climate-Water-Analysis)
 
 Project repository:
 
