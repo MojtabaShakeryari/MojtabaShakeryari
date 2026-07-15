@@ -89,17 +89,6 @@ Research areas:
 - Climate change impacts
 - Spatial analysis
 
----
----
-
-## GitHub Statistics 📊
-
-![Mojtaba's GitHub stats](https://github-readme-stats.vercel.app/api?username=MojtabaShakeryari&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MojtabaShakeryari&layout=compact&theme=default)
-
----
-
 ## Current Research Focus 🔬
 
 - Satellite-based wetland monitoring
