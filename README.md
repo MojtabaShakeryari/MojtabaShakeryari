@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Mojtaba Shakeryari 👋
 
-<!--
-**MojtabaShakeryari/MojtabaShakeryari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Environmental Scientist | Remote Sensing & GIS Researcher
 
-Here are some ideas to get you started:
+M.Sc. Environmental Science  
+University of Tehran
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in applying satellite remote sensing, GIS, climate data analysis, and machine learning approaches for environmental monitoring and ecosystem assessment.
+
+---
+
+## Research Interests
+
+- Remote Sensing
+- Geographic Information Systems (GIS)
+- Wetland Monitoring
+- Climate Change Impacts
+- Machine Learning Applications
+- Environmental Data Science
+
+---
+
+## Featured Project
+
+### Lake Urmia Environmental Monitoring (2016–2025)
+
+A data-driven framework for monitoring Lake Urmia using:
+
+- Sentinel-2 satellite imagery
+- Google Earth Engine
+- Climate datasets
+- SPEI drought indicators
+- Statistical analysis
+- Machine learning models
+
+Project repository:
+
+https://github.com/MojtabaShakeryari/Lake-Urmia-Climate-Water-Analysis
+
+---
+
+## Technical Skills
+
+### Remote Sensing & GIS
+
+- Google Earth Engine
+- Sentinel-2
+- Landsat
+- ArcGIS
+- ENVI
+
+### Programming
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+### Environmental Analysis
+
+- Time-series analysis
+- Climate impact assessment
+- Wetland monitoring
+- Predictive modeling
+
+---
+
+## Publications & Research
+
+Research areas:
+
+- Environmental monitoring
+- Remote sensing applications
+- Climate change impacts
+- Spatial analysis
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/MojtabaShakeryari
