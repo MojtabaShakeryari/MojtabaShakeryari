@@ -1,6 +1,6 @@
 # Hi, I'm Mojtaba Shakeryari 👋
 
-## Environmental Scientist | Remote Sensing & GIS Researcher | Climate Change & Machine Learning
+## Environmental Scientist | Remote Sensing • GIS • Earth Observation • Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-Remote%20Sensing-green)
@@ -21,6 +21,12 @@ GPA: **4.0/4.0**
 My research focuses on the application of satellite remote sensing, GIS, climate data analysis, and machine learning techniques for environmental monitoring, ecosystem assessment, and climate change studies.
 
 ---
+## About Me
+
+I am an Environmental Scientist with research interests in satellite remote sensing, GIS, Earth observation, climate change, and machine learning applications for environmental monitoring. My work focuses on integrating multi-source geospatial datasets with data-driven approaches to investigate wetlands, urban environments, and climate-related environmental processes.
+
+I am currently expanding my expertise in Python and Google Earth Engine to develop reproducible workflows for large-scale environmental analysis and decision support.
+
 
 # Research Interests
 
@@ -55,7 +61,7 @@ Research methods:
 
 ---
 
-# Featured Research Project 🌍
+# Featured Projects 🌍
 
 # Lake Urmia Environmental Monitoring (2016–2025)
 
@@ -99,7 +105,7 @@ This project investigates long-term changes in lake surface water extent and eva
 
 Repository:
 
-➡️ https://github.com/MojtabaShakeryari/Lake-Urmia-Climate-Water-Analysis
+➡️➡️ [Lake Urmia Environmental Monitoring](https://github.com/MojtabaShakeryari/Lake-Urmia-Climate-Water-Analysis)
 
 ---
 
@@ -210,7 +216,10 @@ Topics:
 
 ---
 
-# Contact
 
-GitHub:
-https://github.com/MojtabaShakeryari
+## Contact
+
+- **GitHub:** https://github.com/MojtabaShakeryari
+- **ORCID:** https://orcid.org/0009-0001-2131-3570
+- **Google Scholar:** https://scholar.google.com/citations?user=tn-LPnEAAAAJ&hl=en
+- **LinkedIn:** https://www.linkedin.com/in/mojtaba-shakeryari-92561733b/
